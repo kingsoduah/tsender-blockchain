@@ -1,0 +1,9 @@
+{
+  "sites": [
+    {
+      "slug": "shallow-london-harsh",
+      "distDir": "./out",
+      "buildCommand": "npm run build"
+    }
+  ]
+}
